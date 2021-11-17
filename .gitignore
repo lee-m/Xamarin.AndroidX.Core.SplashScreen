@@ -1,0 +1,5 @@
+.vs/
+*.user
+Xamarin.AndroidX.Core.SplashScreen/bin/
+Xamarin.AndroidX.Core.SplashScreen/NuGetPackage/
+Xamarin.AndroidX.Core.SplashScreen/obj/
